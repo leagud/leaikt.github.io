@@ -1,0 +1,107 @@
+body {
+    font-family: "Lato", sans-serif;
+  }
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #fab7b7;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #ffffff;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    font-size: 28px;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+  .meny {
+    font-size: 30px;
+    cursor:pointer;
+  }
+
+  .tittel {
+    text-align: center;
+    text-transform: uppercase;
+    display: block;
+    border-bottom: 1px solid #ccc;
+    padding: 0 0 10px 0;
+    font-size: 24px;
+  }
+
+  .p ,.tekst {
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 40px;
+    line-height: 40px;
+  }
+
+  .ul ,.kilder1 {
+    color: #fab7b7;
+    font-size: 28px;
+    float: left;
+    margin-left: 400px;
+    margin-top: 40px;
+    margin-bottom: 120px;
+    line-height: 60px;
+    text-decoration: none;
+  }
+  
+  .ul ,.kilder2 {
+    color: #fab7b7;
+    font-size: 28px;
+    float: left;
+    margin-left: 300px;
+    margin-top: 40px;
+    margin-bottom: 120px;
+    line-height: 60px;
+    text-decoration: none;
+  }
+
+  
+  .ul ,.kilder1 a:hover{
+    text-decoration: underline;
+  }
+  
+  .ul ,.kilder2 a:hover{
+    text-decoration: underline;
+  }
+
+  .film {
+    padding-left: 440px;
+    padding-top: 20px;
+  }
+
+  .spill {
+    padding-left: 460px;
+    padding-top: 20px;
+  }

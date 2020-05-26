@@ -1,0 +1,118 @@
+.tittel {
+    text-align: center;
+    text-transform: uppercase;
+    display: block;
+    border-bottom: 1px solid #ccc;
+    padding: 0 0 10px 0;
+    font-size: 24px;
+  }
+
+.tittel_mellomrom {
+   text-align: center;
+   text-transform: uppercase;
+   display: block;
+   border-bottom: 1px solid #ccc;
+   padding: 0 0 5px 0;
+   margin-top: 160px;
+  }
+
+.tittel_etter {
+    text-align: center;
+    text-transform: uppercase;
+    display: block;
+    border-bottom: 1px solid #ccc;
+    margin-top: 160px;
+    padding: 0 0 5px 0;
+  }
+  
+.p ,.tittel2 {
+    text-align: center;
+    font-size: 24px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+.p ,.tekst {
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 40px;
+    line-height: 40px;
+  }
+
+  .p ,.endring_lokasjon {
+    color: #000000;
+    font-size: 18px;
+    margin-top: 40px;
+    text-align: center;
+  }
+
+.ul ,.kilder1 {
+  color: #000000;
+  font-size: 18px;
+  float: left;
+  margin-left: 300px;
+  margin-top: 40px;
+  margin-bottom: 120px;
+  line-height: 60px;
+  text-decoration: none;
+}
+
+.ul ,.kilder2 {
+  color: #000000;
+  font-size: 18px;
+  float: left;
+  margin-left: 300px;
+  margin-top: 40px;
+  margin-bottom: 120px;
+  line-height: 60px;
+  text-decoration: none;
+}
+
+.ul ,.kilder3 {
+  color: #000000;
+  font-size: 18px;
+  float: left;
+  margin-left: 600px;
+  margin-right: 500px;
+  margin-top: 40px;
+  margin-bottom: 60px;
+  line-height: 60px;
+}
+
+.ul ,.kilder1 a:hover{
+  text-decoration: underline;
+}
+
+.ul ,.kilder2 a:hover{
+  text-decoration: underline;
+}
+
+.ul ,.kilder3 a:hover{
+  text-decoration: underline;
+}
+
+
+.ol ,.netiquette {
+  color: #000000;
+  font-size: 18px;
+  float: left;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 40px;
+  margin-bottom: 120px;
+  line-height: 40px;
+}
+
+.ul ,.liste {
+  color: #000000;
+  font-size: 18px;
+  float: left;
+  margin-left: 200px;
+  margin-top: 40px;
+  margin-right: 200px;
+  margin-bottom: 120px;
+  line-height: 40px;
+}
